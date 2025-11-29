@@ -5,4 +5,4 @@ Vou iniciar este projeto nas férias da faculdade. Ele será dividido nas seguin
     - 4 "Padronização": Nesta etapa, vou criar e aplicar arquivos de padronização de cores e elementos;
     - 5 "Paginação": Nesta etapa, vou criar as rotas, finalizando a parte visual;
     - 6 "Banco": Nesta etapa, vou conectar o banco de dados ao CRUD e personalizá-lo com os campos necessários;
-    - 7 "Junção": Nesta etapa, vou efetivamente conectar a parte visual ao CRUD.
+    - 7 "Junção": Nesta etapa, vou efetivamente conectar a parte visual ao CRUD. 
